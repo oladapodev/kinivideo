@@ -201,6 +201,13 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# KiniVideo generated assets
+var/
+web/dist/
+web/node_modules/
+web/.vite/
+web/tsconfig.tsbuildinfo
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
